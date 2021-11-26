@@ -13,4 +13,4 @@ function pasuser(form,page) {
         location="page2.html"
     }
 
-    fetch("https://jsonplaceholder.typicode.com/todos")
+    
