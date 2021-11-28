@@ -34,7 +34,7 @@ function countCheckboxes(){
  var x =a.querySelectorAll('input[type="checkbox"]:checked');
  if(x.length==95)
 {
-    alert("WOW!!!!! you've completed 5 Tasks");
+    alert("Congrats. 5 Tasks have been Successfully Completed");
 }
 
 // 
